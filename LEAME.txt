@@ -1,0 +1,7 @@
+Commercejs + Threejs: https://codesandbox.io/s/po30k  https://github.com/Andreloui5/CommerceWithThree 
+
+Threejs + Decals:  https://codesandbox.io/s/react-three-fiber-boilerplate-decal-placement-forked-9xi1p7
+
+Threejs + Decals Mancini:  https://github.com/jokofler/3D-T-Shirts 
+
+Mi deploy: https://aquamarine-douhua-5c293d.netlify.app/
